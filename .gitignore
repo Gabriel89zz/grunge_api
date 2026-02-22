@@ -1,0 +1,6 @@
+# Ignorar configuración de base de datos con credenciales reales
+config/database.php
+
+# Ignorar archivos de sistema y logs
+.DS_Store
+*.log
