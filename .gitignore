@@ -1,5 +1,5 @@
 # Ignorar configuración de base de datos con credenciales reales
-src/db.php
+config/db.php
 
 # Ignorar archivos de sistema y logs
 .DS_Store
